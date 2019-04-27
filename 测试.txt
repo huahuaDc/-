@@ -1,1 +1,1 @@
-system.out.print("Ğ¡À¬»ø");
+ï»¿system.out.print("å°åƒåœ¾");
