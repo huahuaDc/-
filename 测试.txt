@@ -1,1 +1,2 @@
 ﻿system.out.print("小垃圾");
+ ﻿system.out.print("小垃圾");
